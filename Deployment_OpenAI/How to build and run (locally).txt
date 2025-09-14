@@ -1,0 +1,11 @@
+How to build and run (locally)
+
+Build the image:
+
+docker build -t my-streamlit-app .
+
+Run the container:
+
+docker run -p 8501:8501 my-streamlit-app
+
+Then open http://localhost:8501 in your browser.
