@@ -1,0 +1,9 @@
+streamlit>=1.20
+langchain>=0.0.300
+openai>=0.27.0
+faiss-cpu
+tiktoken
+pdfplumber
+python-docx
+unstructured
+langchain-community
